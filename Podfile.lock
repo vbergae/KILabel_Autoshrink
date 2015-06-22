@@ -1,0 +1,10 @@
+PODS:
+  - KILabel (1.0.1)
+
+DEPENDENCIES:
+  - KILabel
+
+SPEC CHECKSUMS:
+  KILabel: 4797807cdc0b4992dad8bf91175ddc973c3b569b
+
+COCOAPODS: 0.37.2
